@@ -10,6 +10,7 @@ function App() {
         </div>
   <div className='caja-container'>
     <div className='caja1'></div>
+    <div className='caja1'></div>
   <div className='caja2'></div>
   <div className='caja3'></div>
   </div>
